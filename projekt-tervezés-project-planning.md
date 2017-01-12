@@ -56,5 +56,48 @@ Mindenképpen bontsd fel a terved ilyen mérföldkövekre, és azt is próbáld 
 
 > Mik lehetnének egy Wikipedia projekt mérföldkövei?
 
+# Minimum Viable Product \(MVP\)
 
+A \`[Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)\` szó szerint “minimális életképes terméket” jelent. Ez egy olyan termékverzióra utal, ami már nyújt valami új funkcionalitást, de éppen csak a minimálisat ami a működéshez szükséges.
+
+Térjünk vissza az amőba programra. Az MVP lehet például egy 3x3-as amőba két emberi játékossal, egyebek nélkül. De az MVP-be nem tartozik bele az általános méret, a számítógépes játékos, de nincs benne mentés sem, high scores, regisztrált felhasználók, vagy akár fejlett grafika.
+
+Mi ennek az értelme? Két nagyobb indoka is van.
+
+## Az ötlet hatékony tesztelése
+
+Sokszor az emberek, cégek, projektek “elkalandoznak”, és sok olyan dolgot kifejlesztenek, amik ugyan kényelmesebbé teszik a használatot, de nem tartoznak a projekt központi, új eleméhez \(a fenti példában ilyen az állás mentése vagy a high scores\). Azonban sokszor, főleg újszerű projektek fejlesztésénél, nem lehet előre megmondani, hogy tényleg működőképes-e a konstrukció, illetve hogy mennyire nehéz lefejleszteni. Ezért az MVP abban segít, hogy a lehető leghamarabb, a legkevesebb befektetett energia segítségével megállapítsd, hogy a programod lényege működik-e.
+
+Nézzünk meg két esetet, mondjuk a Twitter esetében.
+
+1. Az egyik esetben lehet szöveget írni, új felhasználót regisztrálni, illetve egymást követni. Ezt mondjuk 3 hónap elkészíteni.
+2. A másik esetben lehet szöveget írni, de képet és videót is fel lehet tölteni. Lehet új felhasználót regisztrálni, de Google és Facebook accounttal is be lehet lépni. Lehet egymást követni, de privát felhasználói fiókokat is létre lehet hozni. Ezt mondjuk 9 hónap elkészíteni.
+
+Ha nem tudjuk előre, hogy a Twitter népszerű lesz-e, akkor melyiket érdemes először elkészíteni? Az 1-es esetben 3 hónapot töltöttünk el vele, és mondjuk 50 000 dollárt. A másik esetben 9 hónapot, és kb. 150 000 dollárt. Ha az ötlet nem működik, akkor a második esetben sokkal több pénzt dobtunk ki, és ráadásul később is tudunk csak változtatni az ötleten. Ha az ötlet működik, akkor még mindig ráérünk kifejleszteni a további feature-öket, ha valóban szükség van rájuk.
+
+## Priorizálás és Feature Creep
+
+A másik indok szorosan kapcsolódik az előbbihez: a priorizálás. Folyamatosan szem előtt kell tartani, hogy mik a legfontosabb, elengedhetetlen feature-ök. Ha az ember olyat fejleszt, ami nem nagyon fontos, akkor időt pazarol el.
+
+Ezzel kapcsolatos a _Feature Creep _fogalma is. Ez azt a jelenséget takarja, amikor a fejlesztők elvesztik a lényegi elemeket szem elől, és olyan dolgokra is pazarolják az idejüket, amik nem létfontosságúak. Ilyenkor sokszor a projekt el sem készül időben, van túl bonyolult lesz.
+
+Ezekben is sokat segít az MVP-re való koncentrálás.
+
+> Mi lehetne a Wikipedia vagy a Facebook MVP-je?
+
+## A tervezési csapda \(Planning Fallacy\)
+
+Gondolj a legközelebbi beígért témazáró dolgozatodra. Mit gondolsz, hány napba telik majd felkészülnöd? \(Tényleg válaszolj erre a kérdésre.\) És mit gondolsz, a legeslegjobb esetben, ha minden jól alakul, hány napba telne felkészülnöd? És a legeslegrosszabb esetben?
+
+Most gondolj arra, hogy a legutóbbi pár alkalommal mennyi idő volt felkészülni a nagydolgozatra. Több idő volt, mint amennyire most gondoltál? És úgy sikerült időben felkészülni?
+
+Kutatásokból kiderült, hogy a legtöbb ember amikor megbecsli valaminek az idejét, igazából a legeslegjobb esetet becsli meg. Ezzel szemben a valóságban még a legrosszabb esetre tippelt időnél is többet töltenek el az adott teendővel. Ezt hívják a _tervezési csapdának _\(Planning Fallacy\).
+
+Hogyan lehet ez ellen védekezni? Felejtsd el a részleteket, és gondolj hasonló projektekre. Pl. ha azt kell megbecsülni, hogy mennyi idő felkészülni a nagydolgozatra, gondolj a korábbi nagydolgozatok előtti időre.
+
+Ennek a témának nagyon érdekesek a részletei és a mögötte álló kutatások; ha érdekel, ajánlom [ezt a Less Wrong cikket](http://lesswrong.com/lw/jg/planning_fallacy/).
+
+# A tervek
+
+A terveidet írd is le, majd oszd meg őket a csoporttal a [közös google drive mappánkban](https://drive.google.com/drive/folders/0B4CEjXzOjZEldlBZaUtORXh6dDg).
 

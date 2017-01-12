@@ -58,5 +58,3 @@ Mindenképpen bontsd fel a terved ilyen mérföldkövekre, és azt is próbáld 
 
 
 
-
-

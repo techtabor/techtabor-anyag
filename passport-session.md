@@ -44,13 +44,13 @@ A session tehát igazából egy kisebb adatstruktúra. Itt pár példát láthat
                     id: 128, 
                     username: "Jancsi", 
                     tetszoleges_hasznos_informacio: "felemás zoknit hord"
-                }
+                },
 
+/*              .
                 .
                 .
                 .
-                .
-                .
+                .         */
 
 '98444464642' : {
                     id: 865,

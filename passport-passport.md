@@ -54,8 +54,6 @@ Amikor a saját stratégiánkat írjuk, és már eldöntöttük, hogy a usernek 
 
 ### A user változó
 
-
-
 ### Példa SQL-el:
 
 ```js

@@ -6,7 +6,7 @@
 
 ## Projektmenedzsment
 
-* [Projekt Tervezés \(“Project Planning”\)](projekt-tervezés-project-planning.md)
+* [Projekttervezés \(“Project Planning”\)](projekt-tervezés-project-planning.md)
 
 ## Frontend
 

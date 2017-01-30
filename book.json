@@ -1,4 +1,4 @@
 {
-  "plugins": ["exercises", "prism", "-highlight"]
+  "plugins": ["prism", "-highlight"]
 }
 

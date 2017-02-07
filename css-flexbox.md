@@ -2,7 +2,7 @@ A CSS-ben az eredeti eszközökkel meglehetősen nehéz az elemek speciális elr
 
 Azonban a CSS3-ban megjelent a _Flexbox,_ amivel az elemek dinamikus és pontos elrendezése lényegesen könnyebb lett. Ennek megértéséhez segíthet az alábbi két kitűnő leírás:
 
-* [http://css-tricks.com/snippets/css/a-guide-to-flexbox/](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
 
 
